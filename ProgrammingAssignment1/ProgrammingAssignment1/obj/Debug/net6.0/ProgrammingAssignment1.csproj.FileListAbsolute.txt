@@ -1,0 +1,15 @@
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.exe
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.deps.json
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.runtimeconfig.json
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.dll
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.pdb
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.csproj.AssemblyReference.cache
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfoInputs.cache
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfo.cs
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.dll
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\refint\ProgrammingAssignment1.dll
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.pdb
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.genruntimeconfig.cache
+C:\Users\sh4rp\source\repos\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ref\ProgrammingAssignment1.dll
