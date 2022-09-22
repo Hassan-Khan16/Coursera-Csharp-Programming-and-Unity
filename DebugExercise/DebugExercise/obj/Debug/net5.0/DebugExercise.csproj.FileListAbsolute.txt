@@ -1,0 +1,16 @@
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\bin\Debug\net5.0\DebugExercise.exe
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\bin\Debug\net5.0\DebugExercise.deps.json
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\bin\Debug\net5.0\DebugExercise.runtimeconfig.json
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\bin\Debug\net5.0\DebugExercise.runtimeconfig.dev.json
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\bin\Debug\net5.0\DebugExercise.dll
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\bin\Debug\net5.0\DebugExercise.pdb
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\DebugExercise.csproj.AssemblyReference.cache
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\DebugExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\DebugExercise.AssemblyInfoInputs.cache
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\DebugExercise.AssemblyInfo.cs
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\DebugExercise.csproj.CoreCompileInputs.cache
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\DebugExercise.dll
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\refint\DebugExercise.dll
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\DebugExercise.pdb
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\DebugExercise.genruntimeconfig.cache
+C:\Users\sh4rp\source\repos\DebugExercise\DebugExercise\obj\Debug\net5.0\ref\DebugExercise.dll
