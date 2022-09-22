@@ -1,0 +1,16 @@
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\bin\Debug\net5.0\Exercise9.exe
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\bin\Debug\net5.0\Exercise9.deps.json
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\bin\Debug\net5.0\Exercise9.runtimeconfig.json
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\bin\Debug\net5.0\Exercise9.runtimeconfig.dev.json
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\bin\Debug\net5.0\Exercise9.dll
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\bin\Debug\net5.0\Exercise9.pdb
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\Exercise9.csproj.AssemblyReference.cache
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\Exercise9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\Exercise9.AssemblyInfoInputs.cache
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\Exercise9.AssemblyInfo.cs
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\Exercise9.csproj.CoreCompileInputs.cache
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\Exercise9.dll
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\refint\Exercise9.dll
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\Exercise9.pdb
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\Exercise9.genruntimeconfig.cache
+C:\Users\sh4rp\source\repos\Exercise-9\Exercise9\Exercise9\obj\Debug\net5.0\ref\Exercise9.dll
