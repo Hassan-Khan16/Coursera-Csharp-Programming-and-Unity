@@ -1,0 +1,15 @@
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\bin\Debug\net6.0\TestConvertTemperatures.exe
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\bin\Debug\net6.0\TestConvertTemperatures.deps.json
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\bin\Debug\net6.0\TestConvertTemperatures.runtimeconfig.json
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\bin\Debug\net6.0\TestConvertTemperatures.dll
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\bin\Debug\net6.0\TestConvertTemperatures.pdb
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\TestConvertTemperatures.csproj.AssemblyReference.cache
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\TestConvertTemperatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\TestConvertTemperatures.AssemblyInfoInputs.cache
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\TestConvertTemperatures.AssemblyInfo.cs
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\TestConvertTemperatures.csproj.CoreCompileInputs.cache
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\TestConvertTemperatures.dll
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\refint\TestConvertTemperatures.dll
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\TestConvertTemperatures.pdb
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\TestConvertTemperatures.genruntimeconfig.cache
+C:\Users\sh4rp\source\repos\TestConvertTemperatures\TestConvertTemperatures\obj\Debug\net6.0\ref\TestConvertTemperatures.dll
